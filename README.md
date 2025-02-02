@@ -18,5 +18,3 @@ This project presents the design and simulation of a **microstrip patch antenna 
 - **Radar Systems:** Autonomous vehicles & drones  
 - **IoT & Smart Devices:** High-speed wireless connectivity  
 - **Medical Imaging:** mmWave-based sensing  
-
-Would you like a detailed report or further modifications to the design? 😊
