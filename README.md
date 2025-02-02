@@ -1,5 +1,5 @@
 # **Design and Simulation of Microstrip Patch Antenna at 28 GHz for 5G Applications using CST Microwave Studio**  
-This project presents the design and simulation of a **microstrip patch antenna (MPA)** operating at **28 GHz**, developed using **CST Microwave Studio**. The antenna is intended for **5G communication, satellite systems, radar applications, and IoT**. It is designed with **Rogers RT5880 substrate**, ensuring **low dielectric loss and high efficiency**. The structure incorporates **circular cutouts and a T-shaped slot** to optimize performance.
+This project presents the novel design and simulation of a **microstrip patch antenna (MPA)**. The antenna is intended for **5G communication, satellite systems, radar applications, and IoT**.
 
 ## **Key Features:**  
 - **Operating Frequency:** 28 GHz (Ka-band)  
